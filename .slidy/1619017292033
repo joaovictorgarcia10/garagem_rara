@@ -1,0 +1,2 @@
+lib/app/modules/detail_store.dart
+test/app/modules/detail_store_test.dart

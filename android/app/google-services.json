@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226291898118",
+    "project_id": "desafio-raro",
+    "storage_bucket": "desafio-raro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226291898118:android:ed94f42d7e4110e7dd7087",
+        "android_client_info": {
+          "package_name": "com.example.desafio_raro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226291898118-ud3jq7k3k53ncui2cb945pp0p3c1csv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxU-MEdKCOkqVLQe5QexXR3VegAAARFgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226291898118-ud3jq7k3k53ncui2cb945pp0p3c1csv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
